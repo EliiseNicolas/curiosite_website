@@ -10,9 +10,9 @@ export default function Accueil() {
   return (
     <div className="space-y-10">
       <section className="space-y-2">
-        <h1 className="text-4xl font-bold">Bienvenue !</h1>
+        <h1 className="text-4xl font-bold">Bienvenue à tous.tes sur mon blog de curiosités!</h1>
         <p className="text-lg text-gray-600">
-          J'écris ici sur l'intelligence artificielle et la physique.
+          Le site est en construction !
         </p>
       </section>
 
