@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  // Inclure les billets Markdown dans toutes les pages générées à la demande
+  outputFileTracingIncludes: {
+    '/**/*': ['./content/**/*'],
+  },
 };
 
 export default nextConfig;
