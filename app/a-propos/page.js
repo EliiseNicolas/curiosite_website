@@ -44,14 +44,10 @@ export default function APropos() {
         La connaissance est indéniablement utile. Ses applications apportent confort et ressources à nos sociétés humaines. Réduire la connaissance à ce qu'elle nous apporte, c'est passer à côté du plaisir par esthétisme qu'elle génère. 
         Il y a de la beauté dans la compréhension de l'oganisation des éléments du vivants. Il y a de la beauté dans la compréhension des lois de la physique générale. La connaissance est une fin en soi. Elle génère de l'esthétisme et de la beauté au même titre que l'art. Cette expérience de la beauté, générée par l'art et la connaissance, ne doivent pas êtres bribées, passées au second plan, voir limitée à certaines classes sociales. 
         Le plaisir est un objectif en soi. Donner de l'émerveillement, comme un orgasme, est un objectif en soi. Dans un monde où les financements, nécessaires à la création de la connaissance, sont limités, les arguments vendeurs d'application concrète de la théorie permettent de survivre au système. Ces applications sont nécessaires, et contiennent certainement elles aussi de la beauté. 
-        Tout élément en contient, son expression dépend seulement de l'observant. Mais je tiens ici à soulever l'importance de la connaissance pour sa beauté intrinsèque et de la nécessité de promouvoir le plaisir dans une société régie par le rendement et l'utilité anthropique des objets.
+        Tout élément en contient, son expression dépend seulement de l'observant. Mais je tiens ici à souligner l'importance de la connaissance pour sa beauté intrinsèque et de la nécessité de promouvoir le plaisir dans une société régie par le rendement et l'utilité anthropique des objets.
 
 
-         J'ai d'ailleurs tout récemment eu l'expérience d'émerveillements, plaisante, comme un orgasme, en considérant l'âge de l'eau. 
-        Cette eau qui est entre mes mains est plus âgée que la vie. Elle s'est posée sur des montagnes, a rejoins les océans, peut-être même est-elle allée dans les abysses ? Cette particule a sans doute déjà été consommé par un mammifère auparavant. La beauté engendrée par la connaissance est un cadeau que nous offre l'esprit. 
-        Il devrait être accessible à tous.tes et peut consituer un objectif en soi, à l'instar de l'art. Dans un monde où les financements nécessaire à la sciences sont limités, des arguments d'application de la théorie permettent de survivre d'avantage au système. Ces applications sont nécessaires, et contiennent certainement elles aussi de la beauté. 
-        Tout élément en contient, son expression dépend seulement de l'observant. Mais je tiens ici à soulever l'importance de la connaissance pour sa beauté et la nécessité de promouvoir le plaisir dans une société régie par le rendement et l'utilité anthropique des objets.
-        Mais pas seulement. La beauté réside également dans la créativité des solutions proposées, des regards posés sur les objets de curiosité.
+        
       </p>
 
       <h2>Pourquoi ce blog ?</h2>
