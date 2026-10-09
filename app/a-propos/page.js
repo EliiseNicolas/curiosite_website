@@ -16,17 +16,13 @@ export default function APropos() {
       <p>
        Comprendre le monde qui nous entoure est une chance. C'est aussi un outil et un combat contre les manipulations. 
        Il est dans notre devoir de rendre la connaissance, de la redistribuer, de la partager. 
-
-       
         Renforcer ses connaissances, c'est se donner du pouvoir. C'est aussi créer de la résilience. Mon grille pain tombe en panne ? Je peux le réparer. Et si je ne sais pas le réparer ? Je connais un voisin qui pourrais m'apprendre ! Bien sûr, celà ne fonctionne que si l'on connait son voisin. D'où l'intéret de créer des espaces d'échange à échelle locale.
-        Notre société possède la plus grande connaissance scientifique qu'il n'y ai jamais eu auparavant. Chaque élément de notre quotidien est d'une complexité infinie. Nous dépendons cependant de ces technologies. Les de-obscuriser, rendre leur compréhension accessible, permet de rendre leur plein usage accessible à tous.tes. Apparaît également la notion de possession. 
-        Un objet nous appartiens t-il vraiment si nous n'en connaissons pas le fonctionnement ? Si le ou la fabricante nous rend dépendant d'elle pour son utilisation ?
-        Limiter la connaissances, c'est aliéner. Je veux vivre dans une société libre, où chacune et chacun s'exprime à son plein potentiel et s'épanouisse ! Je veux voir les gens briller, s'émerveiller, s'améliorer, s'inspirer, créer !
+        Notre société possède la plus grande connaissance scientifique qu'il n'y ai jamais eu auparavant. Chaque élément de notre quotidien est d'une complexité infinie. Nous dépendons cependant de ces technologies, dont le fonctionnement est parfois rendu volontairement abstrait. Les de-obscuriser, rendre leur compréhension accessible, permet à chacun.e d'en avoir le plein usage.
       </p>
 
       <h2>La nécessité des espaces de partage</h2>
       <p>
-       Partager est une philosophie, un mode de vivre. Toute personne peut partager une connaissance acquérie durant sa vie. Si chacun.e d'entre nous le pratique alors il devient un échange horizontal, bénéficiant à tous.tes. 
+       Partager est une philosophie, une expérience. Toute personne peut partager une connaissance acquérie durant sa vie. Si chacun.e d'entre nous le pratique alors il devient un échange horizontal, bénéficiant à tous.tes. 
        On ne paie pas simplement un service, on intéragit, on créé, on connecte. On créé de l'humanité. Chaque personne est riche et inspirante, il suffit de s'intéresser à l'autre, de voir sa beauté, pour le remarquer. Créer une société d'inspiration et d'observation bienveillante est plus que nécessaire dans un monde
        où les échanges humains, réels, se raréfient, et que, lorsqu'ils existent, ne se limitent souvent qu'à des transactions de biens et de services monnaitisés. Créer des espaces d'échange, d'expression et de partage où chacune et chacun se sent libre de se tromper, de changer d'avis et d'évoluer est une nécessité.
 
@@ -38,16 +34,26 @@ export default function APropos() {
       </p>
       
       
-      <h2>La beauté de la connaissance</h2>
+      <h2>Plaisir de la connaissance par esthétisme</h2>
 
       <p>
-        La connaissance est indéniablement utile. Ses applications apportent confort et ressources à nos sociétés humaines. Réduire la connaissance à ce qu'elle nous apporte, c'est passer à côté du plaisir par esthétisme qu'elle génère. 
-        Il y a de la beauté dans la compréhension de l'oganisation des éléments du vivants. Il y a de la beauté dans la compréhension des lois de la physique générale. La connaissance est une fin en soi. Elle génère de l'esthétisme et de la beauté au même titre que l'art. Cette expérience de la beauté, générée par l'art et la connaissance, ne doivent pas êtres bribées, passées au second plan, voir limitée à certaines classes sociales. 
-        Le plaisir est un objectif en soi. Donner de l'émerveillement, comme un orgasme, est un objectif en soi. Dans un monde où les financements, nécessaires à la création de la connaissance, sont limités, les arguments vendeurs d'application concrète de la théorie permettent de survivre au système. Ces applications sont nécessaires, et contiennent certainement elles aussi de la beauté. 
+        La connaissance est indéniablement utile. Ses applications apportent confort et ressources à nos sociétés humaines. Mais réduire la connaissance à ce qu'elle nous apporte, c'est passer à côté du plaisir par esthétisme qu'elle génère. 
+        Il y a de la beauté dans la compréhension de l'oganisation des éléments du vivants. Il y a de la beauté dans la compréhension des lois de la physique générale. La connaissance est esthétique au même titre que l'art. Cet esthétisme génère du plaisir. 
+        Donner de l'émerveillement, comme un orgasme, est un objectif en soi. Dans un monde où les financements, nécessaires à la création de la connaissance, sont limités, les arguments vendeurs d'application concrète de la théorie permettent de survivre au système. Ces applications sont nécessaires, et contiennent certainement elles aussi de la beauté. 
         Tout élément en contient, son expression dépend seulement de l'observant. Mais je tiens ici à souligner l'importance de la connaissance pour sa beauté intrinsèque et de la nécessité de promouvoir le plaisir dans une société régie par le rendement et l'utilité anthropique des objets.
 
+        
+        Cette expérience de la beauté, et plus généralement le plaisir, ne doit pas être bribée, passée au second plan, et surtout, limitée à certaines classes sociales. 
 
         
+      </p>
+
+      <h2>De la connaissance, mais pas pour nous</h2>
+      <p>
+      Le développement de la connaissance est souvent justifié par sa potentielle utilité par nos sociétés humaines. Je souhaite souligner ici la nécessité de la connaissance pour les sociétés non-humaines. 
+      Je pense qu'il est acceptable, au vu de l'extinction massive de biodiversité d'origine anthropique actuelle, de financer la recherche scientifique à des fins de compréhensions et de préservtions des organismes.
+      Financer les recherches en conservation, non pas pour mieux consommer les animaux (de manière directe ou indirecte), comme c'est souvent le cas pour la recherche halieutique. Simplement parce qu'ils existent et méritent d'exister, au même titre que nous.
+
       </p>
 
       <h2>Pourquoi ce blog ?</h2>
