@@ -11,6 +11,12 @@ export default function APropos() {
         Je me découvre en découvrant. Je ressens un devoir de comprendre le monde qui m'entoure, associé à une certaine responsabilité. Particulièrement au vue des moyens considérables, financiers et humains, qui m'ont été offerts pendant mes études.
       </p>
 
+      <h2>Pourquoi ce blog ?</h2>
+      <p> Ce blog, c'est ma zone d'expérimentation, d'expression, de tentatives et d'échecs. Une safe-place dans laquelle je veux grandir. Grandir en mettant des mots sur des pensées, en faisant un effort de formalisme afin de faciliter la transmission des idées exposées. 
+      L'effort de formalisme structure mon apprentissage. Je ne peux pas parler d'un sujet simplement si je n'en connais pas bien le fonctionnement. Ce blog, c'est aussi l'occasion de partager mes centres d'intérêts, mes émerveillements et autres découvertes. Les entretiens me permettent de découvrir des personnes proches sous un angle encore peu exploré. 
+      Découvrir une autre lumière chez mes amis que celle à laquelle je suis habituée, puis l'exposer au monde, voilà une activité qui me semble amusante sur bien des aspects.
+      </p>
+      
       <h2>La connaissance libère, la limiter c'est aliéner</h2>
 
       <p>
@@ -56,11 +62,7 @@ export default function APropos() {
 
       </p>
 
-      <h2>Pourquoi ce blog ?</h2>
-      <p> Ce blog, c'est ma zone d'expérimentation, d'expression, de tentatives et d'échecs. Une safe-place dans laquelle je veux grandir. Grandir en mettant des mots sur des pensées, en faisant un effort de formalisme afin de faciliter la transmission des idées exposées. 
-      L'effort de formalisme structure mon apprentissage. Je ne peux pas parler d'un sujet simplement si je n'en connais pas bien le fonctionnement. Ce blog, c'est aussi l'occasion de partager mes centres d'intérêts, mes émerveillements et autres découvertes. Les entretiens me permettent de découvrir des personnes proches sous un angle encore peu exploré. 
-      Découvrir une autre lumière chez mes amis que celle à laquelle je suis habituée, puis l'exposer au monde, voilà une activité qui me semble amusante sur bien des aspects.
-      </p>
+      
     </div>
   )
 }
